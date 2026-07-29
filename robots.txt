@@ -1,0 +1,8 @@
+# robots.txt — All Phase General Contracting LLC
+# https://albanyapcroofingspecialist.com
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://albanyapcroofingspecialist.com/sitemap.xml
